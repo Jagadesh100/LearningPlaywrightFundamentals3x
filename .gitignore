@@ -9,4 +9,6 @@ node_modules/
 package-lock.json
 package.json
 .commandcode
-
+.env
+/allure-results
+/user-session.json

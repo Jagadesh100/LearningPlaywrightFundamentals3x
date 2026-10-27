@@ -12,3 +12,4 @@ package.json
 .env
 /allure-results
 /user-session.json
+/output
